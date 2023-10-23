@@ -1,6 +1,6 @@
 # Sierra Charts Projects
 
-Welcome to the Sierra Charts Projects, a public GitHub repository featuring Sierra Chart projects and trading strategies authored by [Your Name]. All resources here are open source and free for public use.
+Welcome to the Sierra Charts Projects, a public GitHub repository featuring Sierra Chart projects and trading strategies authored by [Ajay](https://github.com/vicktor-reznov-11022001). All resources here are open source and free for public use.
 
 ## Getting Started
 
