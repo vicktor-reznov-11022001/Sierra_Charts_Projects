@@ -7,7 +7,7 @@ Welcome to the Sierra Charts Projects, a public GitHub repository featuring Sier
 1. **Clone the Repository:** Copy the repository URL and clone it to your local machine.
 
    ```bash
-   git clone https://github.com/yourusername/sierra-charts-projects.git
+   git clone https://github.com/vicktor-reznov-11022001/sierra-charts-projects.git
 2. Set Up Sierra Chart: Make sure you have Sierra Chart installed on your trading platform. Download it from Sierra Chart's official website, if needed.
 
 3. Explore Projects: Browse project folders for detailed usage instructions and documentation.
